@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TelegramClone</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="settings_default_username">John Doe</string>
+    <string name="settings_default_status">Online</string>
+    <string name="settings_text_account">Account</string>
+</resources>
