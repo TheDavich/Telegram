@@ -5,4 +5,27 @@
     <string name="settings_default_username">John Doe</string>
     <string name="settings_default_status">Online</string>
     <string name="settings_text_account">Account</string>
+    <string name="settings_default_number">+996559202004</string>
+    <string name="settings_label_phone_number">Press to change phone number</string>
+    <string name="settings_default_login">TheDavich</string>
+    <string name="settings_label_login">Username</string>
+    <string name="settings_default_bio">About me</string>
+    <string name="settings_label_bio">Write about yourself</string>
+    <string name="settings_menu_change_name">Change name</string>
+    <string name="settings_menu_exit">Log out</string>
+    <string name="forward_button">Forward button</string>
+    <string name="register_image">register_image</string>
+    <string name="register_text_enter_code">Enter code from SMS</string>
+    <string name="register_text_we_sent">We have sent you an SMS with the security code on your phone number</string>
+    <string name="register_hint_default_code">- - - - - -</string>
+    <string name="register_title_your_phone">Your phone number</string>
+    <string name="register_toast_enter_phone">Enter phone number</string>
+    <string name="enter_code_six_digit_hint">Enter 6 digit code</string>
+    <string name="enter_phone_number">Enter phone number</string>
+    <string name="settings_hint_name">Name</string>
+    <string name="settings_hint_surname">Surname</string>
+    <string name="settings_toast_name_is_empty">Name cannot be empty</string>
+    <string name="toast_data_updated">Your data has been successfully changed</string>
+    <string name="settings_hint_input_username">Enter new username</string>
+    <string name="settings_input_bio">Change bio</string>
 </resources>
